@@ -102,5 +102,8 @@ resource allocation
 easy adjustments
 
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core issues are the problems the software aims to fix.
+Use real-world examples to illustrate the problem's impact
+Highligh specific pain points faced by your target audience.
 
 
