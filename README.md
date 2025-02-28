@@ -103,8 +103,29 @@ easy adjustments
 
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 Core issues are the problems the software aims to fix.
-Use real-world examples to illustrate the problem's impact
-Highlight specific pain points faced by your target audience.
+My software is a property management software
+It's core issues are: 
+Reducing paperwork- digital record keeping for payments, maintenanace requests and leases.
+Tracking bills and expenses- automated logging of utility bills, repairs and service charges and giving expense reports for landlords to track profitability.
+Tenanat and landlord communication- messaging system for rent reminders, complaints and maintenance updates.
+Property maintenanace management- request tracking for repairs and service scheduling and also vendor management for assigning repair jobs.
+Reporting and insights- rent collection reports for financial planning and vacancy tracking to reduce revenue loss.
+Why are these problems significant to my target audience?
+My target audience includes landlords, tenanats and property managers all of whom experience significant challenges due to these problems
+Landlord's pain points: 
+Late or missed rent payments causing financial instability
+Manual record keeping leading to errors and lost receipts
+High administrative workload
+Lack of financial insights and difficult to track rental income, expenses and profitability.
+Tenant's pain points:
+Inconvenient rent payment methods
+Poor maintenance response times and unresoved issues leads to dissatisfaction.
+Lack of communication and unclear billing, lease terms, and rent reminders
+Property manager's pain points:
+Time-consuming paperwork- managing receipts, leases and complaints manually.
+Diffulty handling multiple tenants and properties
+Tracking repairs and expenses.
+
 
 How can clearly defining the problem help in developing a more effective software solution?
 It focuses on the right problem ensuring that the development team understands what needs to be solved.
@@ -115,8 +136,8 @@ Clear metrics for success.
 
 How would you describe your software solution in a way that captures its essence without diving into technical details?
 To describe a software solution without diving into technical details, I would focus on the core benefits it offers and the problem it solves for the user. Here’s an example of how that might look:
-"My software solution is designed to simplify and enhance the way you [insert the core action, like manage tasks, track projects, or communicate]. It streamlines your workflow by automating repetitive tasks, improving collaboration, and providing easy-to-understand insights. The solution is intuitive, user-friendly, and customizable, allowing you to focus more on what truly matters without getting bogged down by complexity. It’s built to save you time, reduce errors, and help you achieve your goals more effectively."
-This description captures the essence of the software by emphasizing its value, user experience, and outcomes, without getting lost in the technical aspects.
+"Managing properties made simple! My software is a smart, hassle-free property management solution designed to simplify rent collection, streamline tenant communication, and automate record keeping. It helps landlords track payments effortlessly, ensures tenants have a smooth living experience and reduces the paperwork burden for property managers.
+With built-in reminders, maintenance tracking,and financial insights, our system makes managing properties easier, faster and more efficient."
 
 What are the main features or functionalities that make your software stand out?
 Customizable features.
